@@ -13,8 +13,8 @@ SIMULATION_TIME = 50  # Total simulation time
 GREEN_LIGHT_DURATION = 10  # Duration of the green light
 RED_LIGHT_DURATION = 5  # Duration of the red light
 
-# Data for visualization
-pedestrian_positions = []
+# # Data for visualization
+# pedestrian_positions = []
 
 class TrafficLight:
     def __init__(self, env):
